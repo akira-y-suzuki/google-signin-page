@@ -8,6 +8,7 @@ If you want to do it for another site or something, I used inspect element to co
 At the semi-top of the file, theres a function called onSubmit() that is called when the form is finished. The email and password inputted is saved to userEmail and userPassword. After running, it'll change the HTML to a google error page. Change that if you want!
 
 **My to-do list:**
+- Make file smaller. Theres about 750 KB of CSS classes, and you can't really get rid of that, but some of the HTML and JS isn't needed.
 - Add swipe animation for transitioning between email and password form (Impossible difficulty)
 - Add go back to email if you click on the left button on the password page
 - Fix password input box being a little higher than Google's
