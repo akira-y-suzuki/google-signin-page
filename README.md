@@ -14,6 +14,6 @@ At the semi-top of the file, theres a function called onSubmit() that is called 
 - Fix password input box being a little higher than Google's
 - Add different language selector
 - Attempt to somewhat validate emails so that they check if the TLD is valid. 
-- I had something else, but I think I forgot...
+- Add verify recovery phone number/recovery email screen after password
 
 If you get one of these coded, feel free to create a pull request or message me at Discord! My username is akira.y.suzuki
